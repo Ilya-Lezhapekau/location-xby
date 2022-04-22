@@ -1,7 +1,7 @@
 # XBY, hex_code: 24, dec_code: 36
 # Required for client-auto-config
 location: xby
-public_key: FGRvMWwUcAqD2LdSN4rVKz6t+b5ukbDVL4H+yq7gPRM=
+public_key: wAKWD4zGxN2dehLrg11c6NAiKiGucSB3QUUV4OuLTX0=
 # VPN server config
 account: sys
 vpn:
