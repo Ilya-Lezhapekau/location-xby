@@ -70,7 +70,7 @@ vpn:
   - num: 7
     name: idc-superset dashboard VM
     public_key: YmAXXzqShcDUFFqBtOt63dF3lAXV1Uv+a+/KXUph3z8=
-peer_vpn:
+peer_vpn: []
 #- name: ycz
 #  endpoint: sys.vpn.zby.icdc.io:2200
 #  public_key: frbYCnZ6RBbgBMNd3qcFJVlsQOSc7NdizRHZRVSomDI=
