@@ -48,6 +48,9 @@ vpn:
   - num: 14
     name: mmarchanka workstation
     public_key: 2QROAWTG1+FfAM653mpUs5ydGmmwA6tFjRjSju1gF1I=
+  - num: 15
+    name: ahrechushkin workstation
+    public_key: 9b3Ou9lXROVXBkuYIxlEfCsu+5XpuPEi1wXW74+4yxw=    
 - name: team
   port: 2201
   ip: 10.254.36.1/25
